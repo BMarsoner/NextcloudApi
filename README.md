@@ -1,4 +1,4 @@
-# NextcloudApi
+# NextcloudApia
 
 This is a C# wrapper to (the most important bits of) the [Nextcloud API](https://docs.nextcloud.com/server/16/developer_manual/client_apis/index.html).
 
